@@ -104,6 +104,6 @@ RESPOSTA:
 7	1927	1928	1	ART DIRECTION	William Cameron Menzies	The Dove;	True
 
 -- 16- Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece? 
--- meu pai que me deu todo apoio confiança em todos momentos que foi preciso e cada passo dado.
-INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST DAD', 'José Da Purificação Oliveira', 'O Pai Do Ano', '1');
-RESPOSTA: 10396	2022	2023	94	BEST DAD	José Da Purificação Oliveira	O Pai Do Ano	1
+-- meu Avô mesmo que vivendo com ele apenas 11 anos da minha vida, foi o suficiente para me ensinar o que é ter valor.
+INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST MEN EVER', 'Antonio Valdeci Nascimento', 'O BADASS', '1');
+RESPOSTA: 10396	2022	2023	94	BADASS	Antonio Valdeci Nascimento	O HOMEM Do ANo	1
